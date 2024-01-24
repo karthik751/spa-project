@@ -1,0 +1,44 @@
+{
+  "brands": [
+    {
+      "name": "Audi",
+      "logo": "/images/logos/audi-logo.png"
+    },
+    {
+      "name": "BMW",
+      "logo": "/images/logos/bmw-logo.png"
+    },
+    {
+      "name": "Ford",
+      "logo": "/images/logos/ford-logo.png"
+    },
+    {
+      "name": "Honda",
+      "logo": "/images/logos/honda-logo.png"
+    },
+    {
+      "name": "Hyundai",
+      "logo": "/images/logos/hyundai-logo.png"
+    },
+    {
+      "name": "Kia",
+      "logo": "/images/logos/kia-logo.png"
+    },
+    {
+      "name": "Mercedes Benz",
+      "logo": "/images/logos/mercedes-benz-logo.png"
+    },
+    {
+      "name": "Renault",
+      "logo": "/images/logos/renault-logo.png"
+    },
+    {
+      "name": "Toyota",
+      "logo": "/images/logos/toyota-logo.png"
+    },
+    {
+      "name": "Volkswagen",
+      "logo": "/images/logos/volkswagen-logo.png"
+    }
+  ]
+}
